@@ -1,5 +1,5 @@
-## Hi there 👋
-My name is Kate!
+## Hi there! My name is Kate! 👋
+
 
 :mailbox: Reach me out!
 
