@@ -3,7 +3,7 @@
 
 :mailbox: Reach me out!
 
-![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&labelColor=blue&link=www.linkedin.com%2Fin%2Fkateryna-mishchuk-5878092a5)
+![Static Badge](https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn&logoColor=white&labelColor=blue&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkateryna-mishchuk-5878092a5%2F)
 ![Static Badge](https://img.shields.io/badge/email-red?style=flat&logo=gmail&logoColor=white&labelColor=red&link=smile.sonrisa7%40gmail.com)
 
 #### Stack of Technologies
